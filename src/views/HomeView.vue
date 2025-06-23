@@ -5,7 +5,7 @@ import JobListings from '@/components/JobListings.vue';
 </script>
 
 <template>
-  <Hero title="Test Title" subtitle="Test Subtitle" />
+  <Hero title="Jobs Portal" subtitle="Jobs Portal Created with Vue - Robert Stroe" />
   <HomeCards />
   <JobListings :limit="3" :showButton="true" />
 </template>
