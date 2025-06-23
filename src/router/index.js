@@ -24,7 +24,7 @@ const router = createRouter({
         },
         {
             path: '/jobs/add', 
-            name: 'not-found',
+            name: 'not-found-2',
             component: NotFoundView
         },
         {
